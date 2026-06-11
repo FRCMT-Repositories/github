@@ -455,6 +455,8 @@ Os formatos mais utilizados para documentação são:
 
 </div>
 
+</div>
+
 > [!TIP]
 > <div align="justify">
 >
@@ -503,11 +505,8 @@ Caso possua um vídeo e deseje convertê-lo para GIF para facilitar a inclusão 
 
 </tr>
 </table>
+
 ```
-
-<div align="justify">
-
-</div>
 
 </div>
 

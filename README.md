@@ -50,12 +50,12 @@ Uma boa organização desde o início facilita a manutenção do projeto e a nav
 > Caso algum arquivo exceda esse tamanho, recomenda-se:
 >
 > Dividir o conteúdo em múltiplos arquivos menores
->
 > Compactar os arquivos quando possível
->
 > Utilizar ferramentas específicas para arquivos grandes, como Git LFS
 >
 > Em projetos CAD e simulações 3D, é comum que modelos, vídeos e animações ultrapassem esse limite, portanto verifique o tamanho dos arquivos antes de realizar o envio.
+
+<h3>Passo 5 — Primeiro update</h3>
 
 
 

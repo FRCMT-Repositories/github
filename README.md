@@ -457,6 +457,8 @@ Os formatos mais utilizados para documentação são:
 
 </div>
 
+</div>
+
 > [!TIP]
 > <div align="justify">
 >

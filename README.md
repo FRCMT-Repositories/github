@@ -475,6 +475,7 @@ Caso possua um vídeo e deseje convertê-lo para GIF para facilitar a inclusão 
 <h4>Código</h4>
 
 ```tex
+
 <div align="center">
 
 <td align="center" width="400">
@@ -486,23 +487,22 @@ Caso possua um vídeo e deseje convertê-lo para GIF para facilitar a inclusão 
 <tr>
 
 <td align="center" width="400">
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/2024kitbot.png" width="400">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/2024kitbot.gif" width="400">
 </td>
 
 <td align="center" width="400">
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/2025kitbot.gif" width="400">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/2025kitbot.gif" width="400">
 </td>
 
 </tr>
 
 <tr>
 
-	<td align="center" width="400"><b style="font-size:22px;">KITBOT 2024</b></td>
-	<td align="center" width="700"><b style="font-size:22px;">KITBOT 2025</b></td>
+ <td align="center" width="400"><b style="font-size:22px;">KITBOT 2024 gif example</b></td>
+ <td align="center" width="400"><b style="font-size:22px;">KITBOT 2025 gif example</b></td>
 
 </tr>
 </table>
-
 ```
 
 </div>
@@ -513,6 +513,8 @@ Caso possua um vídeo e deseje convertê-lo para GIF para facilitar a inclusão 
 > `<td align="center" width="400">` =  Imagem centralizada e com tamanho de 400 pixels
 >
 > `<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/Figura2.jpg" width="400">` = Link da imagem na web e tamanho de 400 pixels
+
+<div align="justify">
 
 <h4>Demonstração</h4>
 
@@ -538,8 +540,8 @@ Caso possua um vídeo e deseje convertê-lo para GIF para facilitar a inclusão 
 
 <tr>
 
- <td align="center" width="400"><b style="font-size:22px;">KITBOT 2024</b></td>
- <td align="center" width="400"><b style="font-size:22px;">KITBOT 2025</b></td>
+ <td align="center" width="400"><b style="font-size:22px;">KITBOT 2024 gif example</b></td>
+ <td align="center" width="400"><b style="font-size:22px;">KITBOT 2025 gif example</b></td>
 
 </tr>
 </table>

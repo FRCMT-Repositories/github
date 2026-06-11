@@ -31,6 +31,72 @@ Projetos
     └── Docs
 ```
 
+<h3>Exemplo 1 — Criando uma Pasta Diretamente pelo GitHub Desktop</h3>
+
+O primeiro método consiste em criar um novo repositório diretamente pelo GitHub Desktop. Nesse processo, o próprio software será responsável por criar a estrutura inicial da pasta e vinculá-la automaticamente ao GitHub.
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="800">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/EX1.gif" width="800">
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h3>Exemplo 2 — Vinculando uma Pasta Já Existente</h3>
+
+Caso você já possua uma pasta contendo arquivos, documentações, imagens ou projetos, também é possível associá-la diretamente ao GitHub através do GitHub Desktop.
+
+Esse método é especialmente útil para projetos que já estão em desenvolvimento e apenas precisam ser adicionados ao controle de versão.
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="800">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/Ex2.gif" width="800">
+</td>
+
+</tr>
+
+</table>
+
+---
+
+Após concluir uma das opções anteriores, a pasta do projeto será criada ou vinculada no local definido durante a configuração.
+
+Para confirmar que o repositório foi criado corretamente e está hospedado no GitHub, utilize a opção `View on GitHub`, conforme ilustrado abaixo.
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="800">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/ViewGit.gif" width="800">
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+> [!TIP]
+> <div align="justify">
+> Ao acessar a opção `View on GitHub`, verifique se:
+>
+> - o nome do repositório está correto
+> - a descrição do projeto foi preenchida
+> - os arquivos foram enviados com sucesso
+> - o arquivo `README.md` está sendo exibido corretamente
+>
+> Essa simples validação ajuda a identificar problemas logo no início do projeto.
 <h3>Passo 4 — Adicionar os Arquivos</h3>
 
 
@@ -58,38 +124,6 @@ Uma boa organização desde o início facilita a manutenção do projeto e a nav
 <h3>Passo 5 — GitHub Desktop</h3>
 
 Agora com as pastas criadas e os arquivos organizados como desejavel, vamos realizar o nosso primeiro update na plataforma.
-
-Para isso abra o GitHub desktop e caso não tenha criado a pasta pelo software basta vinculala ao seu git como mostra os exemplos abaixo:
-Exemplo 1 criando a pasta pelo software:
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="800">
-	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/EX1.gif" width="800">
-</td>
-
-</tr>
-
-</table>
-
-Após isso no local que definiu anteriormente vai ser gerada a pasta. Para confirmar a hospedagem no github você pode clicar em `view on github`
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="800">
-	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/ViewGit.gif" width="800">
-</td>
-
-</tr>
-
-</table>
-
-
-Exemplo 2 vinculando com uma pasta já existente:
 
 
 

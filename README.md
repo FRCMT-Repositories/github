@@ -635,12 +635,26 @@ Example imagem
 
 ```tex
 
-	```tex
-	```
-	```java
-	```
-	```html
-	```
+```tex
+Representação visual em formato textual.
+```
+
+```java
+  @Override
+  public void periodic() {
+
+    Pose2d currentPose = this.getState().Pose;
+    Logger.recordOutput("ODOMETRY", currentPose);
+    
+  }
+```
+
+```html
+<body>
+    <h1>Olá, Mundo!</h1>
+    <p>Representação visual de um código html.</p>
+</body>
+```
 ```
 
 </div>

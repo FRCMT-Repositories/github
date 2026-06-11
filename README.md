@@ -629,5 +629,34 @@ Example imagem
 
 [The blue Alliance](https://www.thebluealliance.com/)
 
+<h3>Representação de código</h3>
+
+<h4>Código</h4>
+
+```tex
+
+	```tex
+	```
+	```java
+	```
+	```html
+	```
+```
+
+</div>
+
+> [!TIP]
+> <div align="justify">
+>
+> `tex` → Representação textual.
+>
+> `java` → representação em java.
+>
+> `html` → representação em html.
+
+<h4>Demonstração</h4>
+
+
+
 
 </div>

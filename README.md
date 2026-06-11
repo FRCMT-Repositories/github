@@ -66,13 +66,28 @@ Exemplo 1 criando a pasta pelo software:
 
 <tr>
 
-<td align="center" width="900">
-	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/EX1.gif" width="900">
+<td align="center" width="860">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/EX1.gif" width="860">
 </td>
 
 </tr>
 
 </table>
+
+Após isso no local que definiu anteriormente vai ser gerada a pasta. Para confirmar a hospedagem no github você pode clicar em `view on github`
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="860">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/ViewGit.gif" width="860">
+</td>
+
+</tr>
+
+</table>
+
 
 Exemplo 2 vinculando com uma pasta já existente:
 

@@ -505,6 +505,8 @@ Caso possua um vídeo e deseje convertê-lo para GIF para facilitar a inclusão 
 </table>
 ```
 
+<div align="justify">
+
 </div>
 
 > [!NOTE]

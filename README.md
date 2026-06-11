@@ -20,12 +20,14 @@ Crie uma pasta em seu computador que será utilizada para armazenar os arquivos 
 
 Exemplo:
 
+```txt
 Projetos
-└── FRCMT
+└── Simulation 3D
     ├── CAD
     ├── Code
     ├── Images
     └── Docs
+```
 
 <h3>Passo 4 — Adicionar os Arquivos</h3>
 
@@ -40,11 +42,17 @@ Uma boa organização desde o início facilita a manutenção do projeto e a nav
 > <div align="justify">
 >
 > LIMITE DE TAMANHO DOS ARQUIVOS
+>
 > O GitHub possui um limite de aproximadamente 100 MB por arquivo para envios convencionais.
+>
 > Caso algum arquivo exceda esse tamanho, recomenda-se:
+>
 > Dividir o conteúdo em múltiplos arquivos menores
+>
 > Compactar os arquivos quando possível
+>
 > Utilizar ferramentas específicas para arquivos grandes, como Git LFS
+>
 > Em projetos CAD e simulações 3D, é comum que modelos, vídeos e animações ultrapassem esse limite, portanto verifique o tamanho dos arquivos antes de realizar o envio.
 
 

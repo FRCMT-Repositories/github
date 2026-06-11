@@ -55,11 +55,26 @@ Uma boa organização desde o início facilita a manutenção do projeto e a nav
 >
 > Em projetos CAD e simulações 3D, é comum que modelos, vídeos e animações ultrapassem esse limite, portanto verifique o tamanho dos arquivos antes de realizar o envio.
 
-<h3>Passo 5 — Primeiro update</h3>
+<h3>Passo 5 — GitHub Desktop</h3>
 
+Agora com as pastas criadas e os arquivos organizados como desejavel, vamos realizar o nosso primeiro update na plataforma.
 
+Para isso abra o GitHub desktop e caso não tenha criado a pasta pelo software basta vinculala ao seu git como mostra os exemplos abaixo:
+Exemplo 1 criando a pasta pelo software:
 
+<table align="center">
 
+<tr>
+
+<td align="center" width="900">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/EX1.gif" width="900">
+</td>
+
+</tr>
+
+</table>
+
+Exemplo 2 vinculando com uma pasta já existente:
 
 
 

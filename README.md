@@ -281,11 +281,16 @@ Alteração → Commit → Push Origin → Verificação na Web
 
 <h3>Titulos e subtitulos</h3>
 
+###Código
+
 ```tex
 <h1>Titulo 1</h1>
 <h2>Titulo 2</h2>
 <h3>Titulo 3</h3>
 ```
+
+###Demonstração
+
 <h1>Titulo 1</h1>
 <h2>Titulo 2</h2>
 <h3>Titulo 3</h3>
@@ -294,7 +299,10 @@ Alteração → Commit → Push Origin → Verificação na Web
 
 <h3>Alinhamentos</h3>
 
+###Código
+
 ```tex
+
 <div align="left">
 Texto alinhado a esquerda
 
@@ -307,6 +315,8 @@ Texto alinhado a direita
 <div align="justify">
 Texto distribuido
 ```
+###Demonstração
+
 <div align="left">
 Texto alinhado a esquerda
 
@@ -323,16 +333,19 @@ Texto distribuido
 
 <h3>Tabelas</h3>
 
+###Código
+```tex
+
 <table align="center">
 
 <tr>
 
 <td align="center" width="800">
-	VALOR 1
+	COLUNA 1
 </td>
 
 <td align="center" width="800">
-	VALOR 2
+	COLUNA 2
 </td>
 
 </tr>
@@ -340,24 +353,85 @@ Texto distribuido
 <tr>
 
 <td align="center" width="800">
-	VALOR 3
+	VALOR 1.0
 </td>
 
 <td align="center" width="800">
-	VALOR 4
+	VALOR 2.0
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="800">
+	VALOR 1.1
+</td>
+
+<td align="center" width="800">
+	VALOR 2.2
 </td>
 
 </tr>
 
 </table>
 
+<div align="center">
+| Coluna 1 | Coluna 2 | Coluna N |
+|---|---|---|
+| Valor 1.0 | Valor 2.0 | Valor 3.0 |
+| Valor 1.1 | Valor 2.1 | Valor 3.1 |
+```
 
+###Demonstração
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="800">
+	COLUNA 1
+</td>
+
+<td align="center" width="800">
+	COLUNA 2
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="800">
+	VALOR 1.0
+</td>
+
+<td align="center" width="800">
+	VALOR 2.0
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="800">
+	VALOR 1.1
+</td>
+
+<td align="center" width="800">
+	VALOR 2.2
+</td>
+
+</tr>
+
+</table>
+
+<div align="center">
 | Coluna 1 | Coluna 2 | Coluna N |
 |---|---|---|
 | Valor 1.0 | Valor 2.0 | Valor 3.0 |
 | Valor 1.1 | Valor 2.1 | Valor 3.1 |
 
-
+<div align="justify">
 
 
 </div>

@@ -195,15 +195,6 @@ Caso o editor apresente opções de formatação, recomenda-se selecionar o modo
 
 </div>
 
-> [!TIP]
-> <div align="justify">
->
-> Para projetos de programação, recomenda-se utilizar o Visual Studio Code, pois ele oferece destaque de sintaxe, pré-visualização em tempo real e diversas extensões que facilitam a escrita de documentações em Markdown.
->
-> Além disso, o VS Code é amplamente utilizado pela comunidade FRC e já faz parte do ambiente de desenvolvimento utilizado pela WPILib.
-
-</div>
-
 > [!NOTE]
 > <div align="justify">
 >
@@ -211,9 +202,11 @@ Caso o editor apresente opções de formatação, recomenda-se selecionar o modo
 >
 > Essa combinação entre Markdown e HTML é amplamente utilizada neste projeto para melhorar a organização e a apresentação visual da documentação.
 
+Agora que o arquivo `README.md` foi criado e configurado corretamente, podemos começar a explorar os principais recursos da linguagem Markdown, aprendendo a criar títulos, listas, links, imagens, GIFs, blocos de código e caixas de destaque para enriquecer a documentação do projeto.
 
+---
 
-<h3>Titulos</h3>
+<h3>Titulos e subtitulos</h3>
 
 ```tex
 <h1>Titulo 1</h1>
@@ -224,7 +217,36 @@ Caso o editor apresente opções de formatação, recomenda-se selecionar o modo
 <h2>Titulo 2</h2>
 <h3>Titulo 3</h3>
 
+---
 
+<h3>Alinhamentos</h3>
+
+```tex
+<div align="left">
+Texto alinhado a esquerda
+
+<div align="center">
+Texto alinhado ao centro
+
+<div align="right">
+Texto alinhado a direita
+
+<div align="justify">
+Texto distribuido
+
+```
+<div align="left">
+Texto alinhado a esquerda
+
+<div align="center">
+Texto alinhado ao centro
+
+<div align="right">
+Texto alinhado a direita
+
+<div align="justify">
+Texto distribuido
+---
 
 
 </div>

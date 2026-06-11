@@ -89,6 +89,7 @@ Para confirmar que o repositório foi criado corretamente e está hospedado no G
 
 > [!TIP]
 > <div align="justify">
+>
 > Ao acessar a opção `View on GitHub`, verifique se:
 >
 > - o nome do repositório está correto

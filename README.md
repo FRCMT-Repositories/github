@@ -281,7 +281,7 @@ Alteração → Commit → Push Origin → Verificação na Web
 
 <h3>Titulos e subtitulos</h3>
 
-###Código
+<h4>Código</h4>
 
 ```tex
 <h1>Titulo 1</h1>
@@ -289,7 +289,7 @@ Alteração → Commit → Push Origin → Verificação na Web
 <h3>Titulo 3</h3>
 ```
 
-###Demonstração
+<h4>Demonstração</h4>
 
 <h1>Titulo 1</h1>
 <h2>Titulo 2</h2>
@@ -299,7 +299,7 @@ Alteração → Commit → Push Origin → Verificação na Web
 
 <h3>Alinhamentos</h3>
 
-###Código
+<h4>Código</h4>
 
 ```tex
 
@@ -315,7 +315,7 @@ Texto alinhado a direita
 <div align="justify">
 Texto distribuido
 ```
-###Demonstração
+<h4>Demonstração</h4>
 
 <div align="left">
 Texto alinhado a esquerda
@@ -333,7 +333,8 @@ Texto distribuido
 
 <h3>Tabelas</h3>
 
-###Código
+<h4>Código</h4>
+
 ```tex
 
 <table align="center">
@@ -377,13 +378,15 @@ Texto distribuido
 </table>
 
 <div align="center">
+
 | Coluna 1 | Coluna 2 | Coluna N |
 |---|---|---|
 | Valor 1.0 | Valor 2.0 | Valor 3.0 |
 | Valor 1.1 | Valor 2.1 | Valor 3.1 |
+
 ```
 
-###Demonstração
+<h4>Demonstração</h4>
 
 <table align="center">
 
@@ -426,6 +429,7 @@ Texto distribuido
 </table>
 
 <div align="center">
+
 | Coluna 1 | Coluna 2 | Coluna N |
 |---|---|---|
 | Valor 1.0 | Valor 2.0 | Valor 3.0 |

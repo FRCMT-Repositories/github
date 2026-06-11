@@ -204,6 +204,78 @@ Caso o editor apresente opções de formatação, recomenda-se selecionar o modo
 
 Agora que o arquivo `README.md` foi criado e configurado corretamente, podemos começar a explorar os principais recursos da linguagem Markdown, aprendendo a criar títulos, listas, links, imagens, GIFs, blocos de código e caixas de destaque para enriquecer a documentação do projeto.
 
+<h3>Publicando seu Primeiro Arquivo</h3>
+
+Antes de prosseguirmos com os recursos de documentação, vamos realizar o envio do arquivo README.md para o GitHub. Dessa forma, você já começará a se familiarizar com o processo de versionamento e atualização dos projetos.
+
+Para isso, abra o GitHub Desktop e selecione o repositório criado anteriormente.
+
+Utilizando este próprio repositório como exemplo, observe que o GitHub Desktop identifica automaticamente todas as alterações realizadas dentro da pasta do projeto. Como acabamos de criar o arquivo README.md, ele aparecerá listado na área de modificações.
+
+<h4>Passo 1 — Verificar as Alterações</h4>
+
+Antes de enviar qualquer arquivo, verifique quais alterações serão incluídas no próximo envio.
+
+É uma boa prática conferir se:
+- os arquivos corretos foram modificados;
+- não existem arquivos temporários sendo enviados;
+- a estrutura do projeto está organizada conforme esperado.
+
+<h4>Passo 2 — Realizar o Commit</h4>
+
+Após validar as alterações, preencha uma descrição resumida informando o que foi modificado.
+
+Exemplo:
+
+Add initial README documentation
+
+ou
+
+Criação da documentação inicial
+
+Em seguida, clique em Commit to main.
+
+O commit cria um registro permanente no histórico do projeto, permitindo rastrear todas as alterações realizadas ao longo do tempo.
+
+<h4>Passo 3 — Enviar para o GitHub</h4>
+
+Após realizar o commit, clique em Push Origin.
+
+Esse processo envia todas as alterações armazenadas localmente para o repositório hospedado no GitHub.
+
+Somente após o Push Origin os arquivos estarão disponíveis na plataforma online.
+
+<h4>Passo 4 — Validar o Resultado</h4>
+
+Ao finalizar o envio, acesse o repositório através da opção View on GitHub ou diretamente pelo navegador.
+
+Verifique se:
+- o arquivo README.md foi enviado corretamente;
+- a estrutura das pastas está sendo exibida;
+- o conteúdo da documentação aparece na página principal do repositório;
+- não existem arquivos faltando ou enviados incorretamente.
+
+A imagem abaixo ilustra o processo completo de submissão do arquivo `README.md`.
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="800">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/gitpush.gif" width="800">
+</td>
+
+</tr>
+
+</table>
+
+Qualquer alteração realizada no projeto, seja ela relacionada a código, documentação, imagens, modelos CAD ou qualquer outro arquivo, deverá seguir novamente o mesmo fluxo apresentado anteriormente:
+
+```txt
+Alteração → Commit → Push Origin → Verificação na Web
+```
+
+
 ---
 
 <h3>Titulos e subtitulos</h3>

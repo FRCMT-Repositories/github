@@ -434,7 +434,43 @@ Texto distribuido
 
 <div align="justify">
 
-<h3>Importando imagens</h3>
+<h3>Importando Imagens e GIFs</h3>
+
+Durante a criação da documentação, é fundamental que as imagens e GIFs sejam enviados para o repositório antes — ou juntamente com — a implementação do código que fará referência a eles.
+
+Isso ocorre porque o GitHub não conseguirá exibir corretamente um arquivo que ainda não existe no repositório. Portanto, caso você adicione primeiro a referência da imagem no `README.md` e somente depois envie o arquivo correspondente, a ilustração ficará indisponível até que ambos estejam sincronizados.
+
+Por esse motivo, recomenda-se sempre seguir a seguinte sequência:
+
+```txt
+1. Adicionar a imagem ou GIF ao projeto
+2. Realizar o Commit e Push Origin
+3. Inserir a referência da imagem no README.md
+4. Realizar um novo Commit e Push Origin
+```
+Os formatos mais utilizados para documentação são:
+- `.png` → imagens com melhor qualidade
+- `.jpg` → imagens com menor tamanho de arquivo
+- `.gif` → demonstrações animadas e tutoriais rápidos
+
+</div>
+
+> [!TIP]
+> <div align="justify">
+>
+> GIFs são excelentes para demonstrar procedimentos, movimentações de mecanismos e fluxos de configuração, pois permitem que o usuário visualize rapidamente o processo sem precisar assistir a um vídeo completo.
+
+Caso possua um vídeo e deseje convertê-lo para GIF para facilitar a inclusão na documentação, utilize a ferramenta abaixo:
+
+- [Conversor de Vídeo para GIF](https://new.express.adobe.com/home/tools/convert-to-gif?colorScheme=light)
+
+</div>
+
+> [!NOTE]
+> <div align="justify">
+> 
+> Sempre que possível, procure otimizar o tamanho dos GIFs antes de enviá-los para o GitHub. Arquivos muito grandes podem aumentar significativamente o tempo de carregamento da documentação e dificultar a navegação dos usuários.
+
 
 <h4>Código</h4>
 
@@ -442,17 +478,70 @@ Texto distribuido
 <div align="center">
 
 <td align="center" width="400">
-	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/LOGOFIRST.png" width="400">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/Figura2.jpg" width="400">
 </td>
 
+<table align="center">
+
+<tr>
+
+<td align="center" width="400">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/2024kitbot.png" width="400">
+</td>
+
+<td align="center" width="400">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/2025kitbot.gif" width="400">
+</td>
+
+</tr>
+
+<tr>
+
+	<td align="center" width="400"><b style="font-size:22px;">KITBOT 2024</b></td>
+	<td align="center" width="700"><b style="font-size:22px;">KITBOT 2025</b></td>
+
+</tr>
+</table>
+
 ```
+
+</div>
+
+> [!TIP]
+> <div align="justify">
+>
+> <td align="center" width="400"> =  Imagem centralizada e com tamanho de 400 pixels
+>
+> <img src="https://github.com/FRCMT-Repositories/github/blob/main/img/Figura2.jpg" width="400"> = Link da imagem na web e tamanho de 400 pixels
 
 <h4>Demonstração</h4>
 
 <div align="center">
 
 <td align="center" width="400">
-	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/LOGOFIRST.png" width="400">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/Figura2.jpg" width="400">
 </td>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="400">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/2024kitbot.png" width="400">
+</td>
+
+<td align="center" width="400">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/2025kitbot.gif" width="400">
+</td>
+
+</tr>
+
+<tr>
+
+	<td align="center" width="400"><b style="font-size:22px;">KITBOT 2024</b></td>
+	<td align="center" width="700"><b style="font-size:22px;">KITBOT 2025</b></td>
+
+</tr>
+</table>
 
 </div>

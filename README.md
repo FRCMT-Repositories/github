@@ -233,7 +233,6 @@ Texto alinhado a direita
 
 <div align="justify">
 Texto distribuido
-
 ```
 <div align="left">
 Texto alinhado a esquerda
@@ -246,6 +245,7 @@ Texto alinhado a direita
 
 <div align="justify">
 Texto distribuido
+
 ---
 
 

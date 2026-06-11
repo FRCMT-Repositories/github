@@ -486,20 +486,20 @@ Caso possua um vídeo e deseje convertê-lo para GIF para facilitar a inclusão 
 
 <tr>
 
-<td align="center" width="400">
-	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/2024kitbot.gif" width="400">
+<td align="center" width="390">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/2024kitbot.gif" width="390">
 </td>
 
-<td align="center" width="400">
-	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/2025kitbot.gif" width="400">
+<td align="center" width="390">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/2025kitbot.gif" width="390">
 </td>
 
 </tr>
 
 <tr>
 
- <td align="center" width="400"><b style="font-size:22px;">KITBOT 2024 gif example</b></td>
- <td align="center" width="400"><b style="font-size:22px;">KITBOT 2025 gif example</b></td>
+ <td align="center" width="390"><b style="font-size:22px;">KITBOT 2024 gif example</b></td>
+ <td align="center" width="390"><b style="font-size:22px;">KITBOT 2025 gif example</b></td>
 
 </tr>
 </table>
@@ -507,12 +507,12 @@ Caso possua um vídeo e deseje convertê-lo para GIF para facilitar a inclusão 
 
 </div>
 
-> [!TIP]
+> [!NOTE]
 > <div align="justify">
 >
-> `<td align="center" width="400">` =  Imagem centralizada e com tamanho de 400 pixels
+> `<td align="center" width="390">` =  Imagem centralizada e com tamanho de 390 pixels
 >
-> `<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/Figura2.jpg" width="400">` = Link da imagem na web e tamanho de 400 pixels
+> `<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/Figura2.jpg" width="390">` = Link da imagem na web e tamanho de 390 pixels
 
 <div align="justify">
 
@@ -521,27 +521,27 @@ Caso possua um vídeo e deseje convertê-lo para GIF para facilitar a inclusão 
 <div align="center">
 
 <td align="center" width="400">
-	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/Figura2.jpg" width="400">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/Figura2.jpg" width="390">
 </td>
 
 <table align="center">
 
 <tr>
 
-<td align="center" width="400">
-	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/2024kitbot.gif" width="400">
+<td align="center" width="390">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/2024kitbot.gif" width="390">
 </td>
 
-<td align="center" width="400">
-	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/2025kitbot.gif" width="400">
+<td align="center" width="390">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/2025kitbot.gif" width="390">
 </td>
 
 </tr>
 
 <tr>
 
- <td align="center" width="400"><b style="font-size:22px;">KITBOT 2024 gif example</b></td>
- <td align="center" width="400"><b style="font-size:22px;">KITBOT 2025 gif example</b></td>
+ <td align="center" width="390"><b style="font-size:22px;">KITBOT 2024 gif example</b></td>
+ <td align="center" width="390"><b style="font-size:22px;">KITBOT 2025 gif example</b></td>
 
 </tr>
 </table>

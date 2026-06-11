@@ -629,7 +629,7 @@ Example imagem
 
 [The blue Alliance](https://www.thebluealliance.com/)
 
-<h3>Representação de código</h3>
+<h3>Trechos de Código</h3>
 
 <h4>Código</h4>
 
@@ -689,6 +689,86 @@ Representação visual em formato textual.
     <p>Representação visual de um código html.</p>
 </body>
 ```
+
+<h3>TIP, IMPORTANT, NOTE and WARNING</h3>
+
+<h4>Código</h4>
+
+```tex
+	</div>
+
+	> [!TIP]
+	> <div align="justify">
+	>
+	> Exemplo - dica 1
+	>
+	> Exemplo - dica 2
+
+	</div>
+
+	> [!IMPORTANT]
+	> <div align="justify">
+	>
+	> Exemplo de informações importantes 1
+	>
+	> Exemplo de informações importantes 2
+	
+	</div>
+
+	> [!NOTE]
+	> <div align="justify">
+	>
+	> Exemplo de anotações 1
+	>
+	> Exemplo de anotações 2
+
+	</div>
+
+	> [!WARNING]
+	> <div align="justify">
+	>
+	> Exemplo de atenção 1
+	>
+	> Exemplo de atenção 2
+```
+
+<h4>Demonstração</h4>
+
+</div>
+
+> [!TIP]
+> <div align="justify">
+>
+> Exemplo - dica 1
+>
+> Exemplo - dica 2
+
+</div>
+
+> [!IMPORTANT]
+> <div align="justify">
+>
+> Exemplo de informações importantes 1
+>
+> Exemplo de informações importantes 2
+
+</div>
+
+> [!NOTE]
+> <div align="justify">
+>
+> Exemplo de anotações 1
+>
+> Exemplo de anotações 2
+
+</div>
+
+> [!WARNING]
+> <div align="justify">
+>
+> Exemplo de atenção 1
+>
+> Exemplo de atenção 2
 
 
 </div>

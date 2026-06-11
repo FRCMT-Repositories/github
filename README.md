@@ -439,18 +439,20 @@ Texto distribuido
 <h4>Código</h4>
 
 ```tex
+<div align="center">
+
 <td align="center" width="400">
 	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/LOGOFIRST.png" width="400">
 </td>
 
 ```
 
+<h4>Demonstração</h4>
+
+<div align="center">
+
 <td align="center" width="400">
 	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/LOGOFIRST.png" width="400">
 </td>
-
-<h4>Demonstração</h4>
-
-
 
 </div>

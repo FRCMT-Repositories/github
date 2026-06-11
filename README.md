@@ -1,7 +1,5 @@
 <div align="justify">
 
-<h1>QUICK START</h1>
-
 <h1>Como baixar arquivos do github</h1>
 
 Para obter uma cópia local do projeto, acesse o repositório desejado e clique no botão `<> Code`, localizado na página principal do GitHub.
@@ -612,10 +610,24 @@ Example imagem
 
 <h3>Associando links</h3>
 
+<h4>Código</h4>
 
+```tex
+[The blue Alliance](https://www.thebluealliance.com/)
+```
 
+</div>
 
+> [!TIP]
+> <div align="justify">
+>
+> `[The blue Alliance]` → texto que será exibido na documentação e ficará clicável.
+>
+> `(https://www.thebluealliance.com/)` → endereço (URL) para onde o usuário será direcionado ao clicar no texto.
 
+<h4>Demonstração</h4>
+
+[The blue Alliance](https://www.thebluealliance.com/)
 
 
 </div>

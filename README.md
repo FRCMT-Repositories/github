@@ -13,6 +13,8 @@ Faça o download e instale o [GitHub Desktop](https://desktop.github.com/downloa
 Após a instalação, faça login utilizando sua conta GitHub.
 
 Caso ainda não possua uma conta, será necessário criar uma gratuitamente antes de prosseguir.
+O método mais simples costuma ser a autenticação utilizando uma conta Google. Entretanto, caso a intenção seja utilizar o GitHub como plataforma oficial da equipe, recomenda-se criar ou vincular a conta utilizando um e-mail institucional da equipe, evitando a dependência de contas pessoais dos membros.
+Essa prática facilita a continuidade dos projetos ao longo dos anos, garante maior controle sobre os repositórios e reduz problemas relacionados à troca de integrantes ou responsáveis pela administração do conteúdo.
 
 <h3>Passo 3 — Criar uma Pasta de Trabalho</h3>
 

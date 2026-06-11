@@ -453,12 +453,6 @@ Os formatos mais utilizados para documentação são:
 - `.jpg` → imagens com menor tamanho de arquivo
 - `.gif` → demonstrações animadas e tutoriais rápidos
 
-</div>
-
-</div>
-
-</div>
-
 > [!TIP]
 > <div align="justify">
 >

@@ -66,8 +66,8 @@ Exemplo 1 criando a pasta pelo software:
 
 <tr>
 
-<td align="center" width="830">
-	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/EX1.gif" width="830">
+<td align="center" width="800">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/EX1.gif" width="800">
 </td>
 
 </tr>
@@ -80,8 +80,8 @@ Após isso no local que definiu anteriormente vai ser gerada a pasta. Para confi
 
 <tr>
 
-<td align="center" width="830">
-	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/ViewGit.gif" width="830">
+<td align="center" width="800">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/ViewGit.gif" width="800">
 </td>
 
 </tr>

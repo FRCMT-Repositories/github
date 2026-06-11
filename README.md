@@ -11,6 +11,18 @@ Em seguida, selecione uma das opções abaixo:
 - **Open with GitHub Desktop** — realiza a clonagem do repositório e permite sincronizar futuras alterações diretamente com o GitHub.
 - **Download ZIP** — faz o download de uma cópia estática dos arquivos presentes no repositório naquele momento.
 
+<table align="center">
+
+<tr>
+
+<td align="center" width="800">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/DonwloadGuide.gif" width="800">
+</td>
+
+</tr>
+
+</table>
+
 </div>
 
 > [!TIP]

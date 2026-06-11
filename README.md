@@ -2,7 +2,25 @@
 
 <h1>QUICK START</h1>
 
-Caso esta seja sua primeira experiência com GitHub, uma das formas mais simples de começar é utilizando o GitHub Desktop, uma ferramenta gráfica que simplifica o envio e atualização de arquivos sem a necessidade de utilizar comandos do Git.
+<h1>Como baixar arquivos do github</h1>
+
+Para obter uma cópia local do projeto, acesse o repositório desejado e clique no botão `<> Code`, localizado na página principal do GitHub.
+
+Em seguida, selecione uma das opções abaixo:
+
+- **Open with GitHub Desktop** — realiza a clonagem do repositório e permite sincronizar futuras alterações diretamente com o GitHub.
+- **Download ZIP** — faz o download de uma cópia estática dos arquivos presentes no repositório naquele momento.
+
+</div>
+
+> [!TIP]
+> <div align="justify">
+>
+> Caso pretenda realizar alterações, contribuir com o projeto ou manter o repositório atualizado, recomenda-se utilizar a opção **Open with GitHub Desktop**, pois ela facilita o gerenciamento de commits, sincronização e versionamento dos arquivos.
+
+<h1>Versionamento de projetos</h1>
+
+Caso esta seja sua primeira experiência armazenando projetos com GitHub, uma das formas mais simples de começar é utilizando o GitHub Desktop, uma ferramenta gráfica que simplifica o envio e atualização de arquivos sem a necessidade de utilizar comandos do Git.
 
 <h2>Passo 1 — Instalar o GitHub Desktop</h2>
 
@@ -98,6 +116,7 @@ Para confirmar que o repositório foi criado corretamente e está hospedado no G
 > - o arquivo `README.md` está sendo exibido corretamente
 >
 > Essa simples validação ajuda a identificar problemas logo no início do projeto.
+
 <h2>Passo 4 — Adicionar os Arquivos</h2>
 
 
@@ -287,6 +306,7 @@ Alteração → Commit → Push Origin → Verificação na Web
 <h1>Titulo 1</h1>
 <h2>Titulo 2</h2>
 <h3>Titulo 3</h3>
+<h4>Titulo 4</h4>
 ```
 
 <h4>Demonstração</h4>
@@ -294,6 +314,7 @@ Alteração → Commit → Push Origin → Verificação na Web
 <h1>Titulo 1</h1>
 <h2>Titulo 2</h2>
 <h3>Titulo 3</h3>
+<h4>Titulo 4</h4>
 
 ---
 
@@ -471,6 +492,10 @@ Os formatos mais utilizados para documentação são:
 - `.jpg` → imagens com menor tamanho de arquivo
 - `.gif` → demonstrações animadas e tutoriais rápidos
 
+Neste exemplo, foi criada uma pasta chamada `img` para armazenar todos os recursos visuais utilizados nesta documentação, como imagens (`.png`, `.jpg`) e animações (`.gif`).
+
+Manter esses arquivos organizados em um diretório específico é uma boa prática, pois facilita a navegação no projeto, melhora a manutenção da documentação e evita que imagens fiquem espalhadas por diferentes locais do repositório.
+
 </div>
 
 > [!TIP]
@@ -497,8 +522,10 @@ Caso possua um vídeo e deseje convertê-lo para GIF para facilitar a inclusão 
 <div align="center">
 
 <td align="center" width="400">
-	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/Figura2.jpg" width="400">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/Figura2.jpg" width="390">
 </td>
+
+Example imagem
 
 <table align="center">
 
@@ -533,9 +560,9 @@ Caso possua um vídeo e deseje convertê-lo para GIF para facilitar a inclusão 
 >
 > `<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/Figura2.jpg" width="390">` = Link da imagem na web e tamanho de 390 pixels
 
-<div align="justify">
-
 <h4>Demonstração</h4>
+
+</div>
 
 <div align="center">
 
@@ -566,5 +593,17 @@ Example imagem
 
 </tr>
 </table>
+
+</div>
+
+<div align="justify">
+
+<h3>Associando links</h3>
+
+
+
+
+
+
 
 </div>

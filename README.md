@@ -1,14 +1,14 @@
 <div align="justify">
 
-<h2>QUICK START</h2>
+<h1>QUICK START</h1>
 
 Caso esta seja sua primeira experiência com GitHub, uma das formas mais simples de começar é utilizando o GitHub Desktop, uma ferramenta gráfica que simplifica o envio e atualização de arquivos sem a necessidade de utilizar comandos do Git.
 
-<h3>Passo 1 — Instalar o GitHub Desktop</h3>
+<h2>Passo 1 — Instalar o GitHub Desktop</h2>
 
 Faça o download e instale o [GitHub Desktop](https://desktop.github.com/download/) em seu computador.
 
-<h3>Passo 2 — Realizar o Login</h3>
+<h2>Passo 2 — Realizar o Login</h2>
 
 Após a instalação, faça login utilizando sua conta GitHub.
 
@@ -49,7 +49,7 @@ O primeiro método consiste em criar um novo repositório diretamente pelo GitHu
 
 ---
 
-<h3>Exemplo 2 — Vinculando uma Pasta Já Existente</h3>
+<h2>Exemplo 2 — Vinculando uma Pasta Já Existente</h2>
 
 Caso você já possua uma pasta contendo arquivos, documentações, imagens ou projetos, também é possível associá-la diretamente ao GitHub através do GitHub Desktop.
 
@@ -98,7 +98,7 @@ Para confirmar que o repositório foi criado corretamente e está hospedado no G
 > - o arquivo `README.md` está sendo exibido corretamente
 >
 > Essa simples validação ajuda a identificar problemas logo no início do projeto.
-<h3>Passo 4 — Adicionar os Arquivos</h3>
+<h2>Passo 4 — Adicionar os Arquivos</h2>
 
 
 Dentro dessa pasta, organize todos os arquivos que deseja enviar para o GitHub, mantendo uma estrutura de diretórios clara e padronizada.
@@ -122,9 +122,26 @@ Uma boa organização desde o início facilita a manutenção do projeto e a nav
 >
 > Em projetos CAD e simulações 3D, é comum que modelos, vídeos e animações ultrapassem esse limite, portanto verifique o tamanho dos arquivos antes de realizar o envio.
 
-<h3>Passo 5 — GitHub Desktop</h3>
+<h2>Passo 5 — GitHub Desktop</h2>
 
-Agora com as pastas criadas e os arquivos organizados como desejavel, vamos realizar o nosso primeiro update na plataforma.
+Agora com as pastas criadas e os arquivos organizados como desejavel, vamos entender como utilizar o github desktop para armazenar nossos arquivos ou até mesmo, entender como podemos criar um guia via documentação, como este que voz fala por exemplo.
+
+Para isso vamos começar com um arquivo de documentação e vamos explorar as formas que podemos trabalhar com esse documento.
+- Para isso, crie um arquivo README.md dentro da sua pasta recentemente criada
+- Esse arquivo geralmente é utilizado para descrever, explicar, documentar, instruir e etc...
+- Dentro dele podemos trabalhar com  linguamge markdwown nativa do github, vamos entender como podemos implementar imagens, dicas, titulos, códigos e etc, para enriquecer a sua documentação.
+
+<h3>Titulos</h3>
+
+```tex
+<h1>Titulo 1</h1>
+<h2>Titulo 2</h2>
+<h3>Titulo 3</h3>
+```
+<h1>Titulo 1</h1>
+<h2>Titulo 2</h2>
+<h3>Titulo 3</h3>
+
 
 
 

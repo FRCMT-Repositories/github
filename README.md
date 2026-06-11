@@ -302,16 +302,12 @@ Alteração → Commit → Push Origin → Verificação na Web
 <h4>Código</h4>
 
 ```tex
-
 <div align="left">
 Texto alinhado a esquerda
-
 <div align="center">
 Texto alinhado ao centro
-
 <div align="right">
 Texto alinhado a direita
-
 <div align="justify">
 Texto distribuido
 ```
@@ -378,11 +374,10 @@ Texto distribuido
 </table>
 
 <div align="center">
-
 | Coluna 1 | Coluna 2 | Coluna N |
 |---|---|---|
-| Valor 1.0 | Valor 2.0 | Valor 3.0 |
-| Valor 1.1 | Valor 2.1 | Valor 3.1 |
+| Valor 1.0 | Valor 2.0 | Valor N.0 |
+| Valor 1.1 | Valor 2.1 | Valor N.1 |
 
 ```
 
@@ -432,10 +427,30 @@ Texto distribuido
 
 | Coluna 1 | Coluna 2 | Coluna N |
 |---|---|---|
-| Valor 1.0 | Valor 2.0 | Valor 3.0 |
-| Valor 1.1 | Valor 2.1 | Valor 3.1 |
+| Valor 1.0 | Valor 2.0 | Valor N.0 |
+| Valor 1.1 | Valor 2.1 | Valor N.1 |
+
+---
 
 <div align="justify">
+
+<h3>Importando imagens</h3>
+
+<h4>Código</h4>
+
+```tex
+<td align="center" width="400">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/LOGOFIRST.png" width="400">
+</td>
+
+```
+
+<td align="center" width="400">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/LOGOFIRST.png" width="400">
+</td>
+
+<h4>Demonstração</h4>
+
 
 
 </div>

@@ -313,16 +313,28 @@ Texto distribuido
 ```
 <h4>Demonstração</h4>
 
+</div>
+
 <div align="left">
+
 Texto alinhado a esquerda
 
+</div>
+
 <div align="center">
+
 Texto alinhado ao centro
 
+</div>
+
 <div align="right">
+
 Texto alinhado a direita
 
+</div>
+
 <div align="justify">
+
 Texto distribuido
 
 ---
@@ -372,6 +384,8 @@ Texto distribuido
 </tr>
 
 </table>
+
+</div>
 
 <div align="center">
 | Coluna 1 | Coluna 2 | Coluna N |
@@ -423,12 +437,16 @@ Texto distribuido
 
 </table>
 
+</div>
+
 <div align="center">
 
 | Coluna 1 | Coluna 2 | Coluna N |
 |---|---|---|
 | Valor 1.0 | Valor 2.0 | Valor N.0 |
 | Valor 1.1 | Valor 2.1 | Valor N.1 |
+
+</div>
 
 ---
 
@@ -452,6 +470,8 @@ Os formatos mais utilizados para documentação são:
 - `.png` → imagens com melhor qualidade
 - `.jpg` → imagens com menor tamanho de arquivo
 - `.gif` → demonstrações animadas e tutoriais rápidos
+
+</div>
 
 > [!TIP]
 > <div align="justify">

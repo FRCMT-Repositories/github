@@ -275,8 +275,9 @@ Qualquer alteração realizada no projeto, seja ela relacionada a código, docum
 Alteração → Commit → Push Origin → Verificação na Web
 ```
 
-
 ---
+
+<h2>Construindo sua Documentação</h2>
 
 <h3>Titulos e subtitulos</h3>
 
@@ -319,6 +320,44 @@ Texto alinhado a direita
 Texto distribuido
 
 ---
+
+<h3>Tabelas</h3>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="800">
+	VALOR 1
+</td>
+
+<td align="center" width="800">
+	VALOR 2
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="800">
+	VALOR 3
+</td>
+
+<td align="center" width="800">
+	VALOR 4
+</td>
+
+</tr>
+
+</table>
+
+
+| Coluna 1 | Coluna 2 | Coluna N |
+|---|---|---|
+| Valor 1.0 | Valor 2.0 | Valor 3.0 |
+| Valor 1.1 | Valor 2.1 | Valor 3.1 |
+
+
 
 
 </div>

@@ -122,14 +122,96 @@ Uma boa organização desde o início facilita a manutenção do projeto e a nav
 >
 > Em projetos CAD e simulações 3D, é comum que modelos, vídeos e animações ultrapassem esse limite, portanto verifique o tamanho dos arquivos antes de realizar o envio.
 
-<h2>Passo 5 — GitHub Desktop</h2>
+<h2>Passo 5 — GitHub Desktop e Primeira Documentação</h2>
 
-Agora com as pastas criadas e os arquivos organizados como desejavel, vamos entender como utilizar o github desktop para armazenar nossos arquivos ou até mesmo, entender como podemos criar um guia via documentação, como este que voz fala por exemplo.
+Agora que o repositório foi criado e as pastas foram organizadas conforme desejado, vamos entender como utilizar o GitHub Desktop para armazenar arquivos, acompanhar alterações e criar documentações como esta que você está lendo.
 
-Para isso vamos começar com um arquivo de documentação e vamos explorar as formas que podemos trabalhar com esse documento.
-- Para isso, crie um arquivo README.md dentro da sua pasta recentemente criada
-- Esse arquivo geralmente é utilizado para descrever, explicar, documentar, instruir e etc...
-- Dentro dele podemos trabalhar com  linguamge markdwown nativa do github, vamos entender como podemos implementar imagens, dicas, titulos, códigos e etc, para enriquecer a sua documentação.
+Uma das grandes vantagens do GitHub é permitir que, além de armazenar código, também seja possível criar documentações completas para explicar projetos, procedimentos, tutoriais e materiais de apoio.
+
+<h3>Criando seu Primeiro Arquivo de Documentação</h3>
+
+Para começar, crie um arquivo chamado README.md na raiz do seu projeto.
+
+O arquivo README.md é normalmente o primeiro conteúdo visualizado ao acessar um repositório e, por esse motivo, costuma ser utilizado para:
+
+- apresentar o projeto
+- fornecer instruções de utilização
+- documentar procedimentos
+- explicar conceitos
+- disponibilizar tutoriais
+- organizar links úteis
+- compartilhar imagens e vídeos
+
+O exemplo abaixo ilustra a criação do arquivo:
+<table align="center">
+
+<tr>
+
+<td align="center" width="800">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/Readmemd.gif" width="800">
+</td>
+
+</tr>
+
+</table>
+
+<h3>O que é Markdown?</h3>
+
+O arquivo README.md utiliza a linguagem Markdown, uma sintaxe simples criada para facilitar a construção de documentações.
+
+Com ela é possível criar:
+
+títulos e subtítulos
+listas
+tabelas
+blocos de código
+links
+imagens
+GIFs
+caixas de aviso
+trechos em HTML
+
+Praticamente toda a documentação deste repositório foi construída utilizando Markdown combinado com HTML.
+
+Nas próximas seções iremos explorar detalhadamente como utilizar esses recursos para criar documentações mais completas e profissionais.
+
+<h3>Configurando o Editor</h3>
+
+Após criar o arquivo, abra-o em um editor de texto de sua preferência.
+
+Caso o editor apresente opções de formatação, recomenda-se selecionar o modo Markdown, conforme ilustrado abaixo:
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="800">
+	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/ReadmeConfig.png" width="800">
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+> [!TIP]
+> <div align="justify">
+>
+> Para projetos de programação, recomenda-se utilizar o Visual Studio Code, pois ele oferece destaque de sintaxe, pré-visualização em tempo real e diversas extensões que facilitam a escrita de documentações em Markdown.
+>
+> Além disso, o VS Code é amplamente utilizado pela comunidade FRC e já faz parte do ambiente de desenvolvimento utilizado pela WPILib.
+
+</div>
+
+> [!NOTE]
+> <div align="justify">
+>
+> Embora o Markdown seja suficiente para a maioria das documentações, o GitHub também permite a utilização de diversos elementos HTML, possibilitando a criação de tabelas, alinhamentos, imagens centralizadas e estruturas mais elaboradas.
+>
+> Essa combinação entre Markdown e HTML é amplamente utilizada neste projeto para melhorar a organização e a apresentação visual da documentação.
+
+
 
 <h3>Titulos</h3>
 

@@ -526,7 +526,7 @@ Caso possua um vídeo e deseje convertê-lo para GIF para facilitar a inclusão 
 
 </div>
 
-> [!NOTE]
+> [!TIP]
 > <div align="justify">
 >
 > `<td align="center" width="390">` =  Imagem centralizada e com tamanho de 390 pixels
@@ -542,6 +542,8 @@ Caso possua um vídeo e deseje convertê-lo para GIF para facilitar a inclusão 
 <td align="center" width="400">
 	<img src="https://github.com/FRCMT-Repositories/github/blob/main/img/Figura2.jpg" width="390">
 </td>
+
+<td align="center" width="390"><b style="font-size:22px;">Example imagem</b></td>
 
 <table align="center">
 

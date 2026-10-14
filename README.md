@@ -1,6 +1,6 @@
 <div align="justify">
 
-<h1>Como baixar arquivos do github</h1>
+<h1>1Como baixar arquivos do github</h1>
 
 Para obter uma cópia local do projeto, acesse o repositório desejado e clique no botão `<> Code`, localizado na página principal do GitHub.
 
